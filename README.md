@@ -29,7 +29,7 @@ Below is a summary of the labs and walkthroughs included in this repository:
   Demonstrates how to exploit the infamous SMB vulnerability on Windows systems, understand the mechanics behind EternalBlue, and gain unauthorized access.
 
 - **c4ptur3-th3-fl4g Walkthrough – TryHackMe**  
-  A capture-the-flag (CTF) style challenge that tests a range of skills, from reconnaissance and enumeration to exploitation and post-exploitation techniques.
+A CTF-style challenge focusing on **hash cracking, encoding/decoding, steganography**, and more. A great room to build your problem-solving and OSINT skills.
 
 ---
 
@@ -41,6 +41,11 @@ Below is a summary of the labs and walkthroughs included in this repository:
 
 ---
 
+## 🚧 Work in Progress
+
+Currently, all walkthroughs are provided in PDF format. Over time, I plan to convert these into structured `.md` files for better readability and accessibility. This repository will continue to grow as I explore new labs and challenges—stay tuned for more updates!
+
+---
 ## 📬 Contact
 
 Feel free to reach out or connect with me:
